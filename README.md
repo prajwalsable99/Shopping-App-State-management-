@@ -1,6 +1,10 @@
+<img src="./output_ss/im1.png" width="300"/><img src="./output_ss/im2.png" width="300"/>
+<img src="./output_ss/im3.png" width="300"/><img src="./output_ss/im4.png" width="300"/>
+<img src="./output_ss/im5.png" width="300"/>
+
 # shopping_app
 
-A new Flutter project.
+
 
 ## Getting Started
 
